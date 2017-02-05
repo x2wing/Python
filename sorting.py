@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*- 
-import numpy as np 
+import numpy 
 
 
 def checker(V):
@@ -55,7 +55,30 @@ def SelectSort(arr):
 				max = j
 		arr[i-1], arr[max] = arr[max], arr[i-1]
 		i -= 1
-	print counter
+	print("counter=",counter)
+
+
+def ShellSort(a):
+	counter=0
+	def new_increment(a): 
+		i = int(len(a) / 2)
+		yield i
+		while i != 1:
+			
+			if i == 2:
+				i = 1
+			else:
+				i = int(numpy.round(i/2.2))
+			yield i
+	for increment in new_increment(a):
+		for i in xrange(increment, len(a)):
+			for j in xrange(i, increment-1, -increment):
+				counter+=1
+				if a[j - increment] < a[j]:
+					break
+				a[j],a[j - increment] = a[j - increment],a[j]
+	print("counter=",counter)
+      
 
 
 
@@ -63,17 +86,14 @@ def SelectSort(arr):
 
 
 
-
-
-
-Vect=np.random.randint(0, 100000, 10000).tolist()
+Vect=numpy.random.randint(0, 255, 1000000)
 #Vect=[10,9,8,2,3,4,5,3,2,1]
-VectCopy=Vect[:]
+#VectCopy=Vect[:]
 print("not sorted",Vect)
 #checker(Vect)
-SelectSort(Vect)
-BubleSort(VectCopy)
+ShellSort(Vect)
+#BubleSort(VectCopy)
 checker(Vect)
-checker(VectCopy)
+#checker(VectCopy)
 print("sorted", Vect)
-print("sorted", VectCopy)
+#print("sorted", VectCopy)
