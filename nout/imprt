@@ -1,0 +1,7 @@
+
+#exec(open('ufanet.py').read())
+
+import test
+import ufanet
+
+#print(ufanet.__builtins__)
