@@ -3,17 +3,17 @@ import numpy
 
 
 def checker(V):
-	for i in xrange(1,len(V)):
+	for i in range(1,len(V)):
 		if V[i-1]>V[i]:
 			print("сортировка говно")
 			return
 
 def BubleSort(V):
 	counter=0
-	for i in xrange(V.__len__()):
+	for i in range(V.__len__()):
 		#print(len(V))
 		F=0
-		for j in xrange(1,V.__len__()-i):
+		for j in range(1,V.__len__()-i):
 			counter+=1
 			if V[j-1]>V[j]:
 				V[j-1],V[j]=V[j],V[j-1] # обмен
@@ -26,7 +26,7 @@ def BubleSort(V):
 
 def InsertionSort(V):
 	counter=0
-	for i in xrange(1,V.__len__()):
+	for i in range(1,V.__len__()):
 		j=i
 		
 		while j>0 and V[j]<V[j-1]:
@@ -49,7 +49,7 @@ def SelectSort(arr):
 	i = len(arr)
 	while i > 1:
 		max = 0
-		for j in xrange(i):
+		for j in range(i):
 			counter+=1
 			if arr[j] > arr[max]:
 				max = j
@@ -71,8 +71,8 @@ def ShellSort(a):
 				i = int(numpy.round(i/2.2))
 			yield i
 	for increment in new_increment(a):
-		for i in xrange(increment, len(a)):
-			for j in xrange(i, increment-1, -increment):
+		for i in range(increment, len(a)):
+			for j in range(i, increment-1, -increment):
 				counter+=1
 				if a[j - increment] < a[j]:
 					break
@@ -86,7 +86,7 @@ def ShellSort(a):
 
 
 
-Vect=numpy.random.randint(0, 255, 1000000)
+Vect=numpy.random.randint(0, 3000000, 1000000)
 #Vect=[10,9,8,2,3,4,5,3,2,1]
 #VectCopy=Vect[:]
 print("not sorted",Vect)
