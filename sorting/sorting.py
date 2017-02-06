@@ -1,12 +1,23 @@
 # -*- coding: utf-8 -*- 
 import numpy 
+import time
 
 
 def checker(V):
 	for i in range(1,len(V)):
 		if V[i-1]>V[i]:
-			print("сортировка говно")
-			return
+			print("Sorting is Shit")
+			return False
+	return True
+	
+			
+
+
+
+def TimeOfWork(foo, V):
+	t1=time.clock()
+	foo(V)
+	print(time.clock()-t1)
 
 def BubleSort(V):
 	counter=0
@@ -38,9 +49,14 @@ def InsertionSort(V):
 	print("counter=",counter)
 
 
-
-
-		
+def GnomeSort(arr):
+	i = 1
+	while i < len(arr):
+		if not i or arr[i - 1] <= arr[i]:
+			i+=1
+		else:
+			arr[i], arr[i - 1] = arr[i - 1], arr[i]
+			i-=1
 
 
 
@@ -57,9 +73,42 @@ def SelectSort(arr):
 		i -= 1
 	print("counter=",counter)
 
+def MergeSort(alist):
+    if len(alist)>1:
+        mid = len(alist)//2
+        lefthalf = alist[:mid]
+        righthalf = alist[mid:]
+
+        MergeSort(lefthalf)
+        MergeSort(righthalf)
+
+        i=0
+        j=0
+        k=0
+        while i<len(lefthalf) and j<len(righthalf):
+            if lefthalf[i]<righthalf[j]:
+                alist[k]=lefthalf[i]
+                i=i+1
+            else:
+                alist[k]=righthalf[j]
+                j=j+1
+            k=k+1
+
+        while i<len(lefthalf):
+            alist[k]=lefthalf[i]
+            i=i+1
+            k=k+1
+
+        while j<len(righthalf):
+            alist[k]=righthalf[j]
+            j=j+1
+            k=k+1
+
+
 
 def ShellSort(a):
-	counter=0
+	#print(time.clock())
+	#counter=0
 	def new_increment(a): 
 		i = int(len(a) / 2)
 		yield i
@@ -73,27 +122,50 @@ def ShellSort(a):
 	for increment in new_increment(a):
 		for i in range(increment, len(a)):
 			for j in range(i, increment-1, -increment):
-				counter+=1
+				#counter+=1
 				if a[j - increment] < a[j]:
 					break
 				a[j],a[j - increment] = a[j - increment],a[j]
-	print("counter=",counter)
-      
+	#print("counter=",counter)
+	#print(time.clock())
+
+
+Vect1=numpy.random.randint(-50, 50, 30000).tolist()
+#print("not sorted",Vect1)
+TimeOfWork(InsertionSort, Vect1)
+numpy.random.shuffle(Vect1)
+TimeOfWork(ShellSort, Vect1)
+numpy.random.shuffle(Vect1)
+TimeOfWork(MergeSort, Vect1)
+
+
+#if checker(Vect1):
+	#print("sorted", Vect1)
+
+
+'''
+Vect2=numpy.random.randint(-50000, 50000, 30000)
 
 
 
-
-
-
-
-Vect=numpy.random.randint(0, 3000000, 1000000)
+TimeOfWork(MergeSort, Vect1)
+checker(Vect1)
+print("sorted", Vect1)
+'''
+#numpy.random.shuffle(Vect1)
 #Vect=[10,9,8,2,3,4,5,3,2,1]
 #VectCopy=Vect[:]
-print("not sorted",Vect)
-#checker(Vect)
-ShellSort(Vect)
-#BubleSort(VectCopy)
-checker(Vect)
-#checker(VectCopy)
-print("sorted", Vect)
+# print("not sorted",Vect1)
+# print("not sorted",Vect2)
+# #checker(Vect)
+# print("сортировка int32")
+
+# print("сортировка byte")
+# TimeOfWork(ShellSort, Vect2)
+# #BubleSort(VectCopy)
+# checker(Vect1)
+# checker(Vect2)
+# #checker(VectCopy)
+# 
+# print("sorted", Vect2)
 #print("sorted", VectCopy)
