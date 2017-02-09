@@ -6,7 +6,7 @@ def FillTable(TableName):
         sqlcommand = 'INSERT INTO ' + TableName + ' (data) VALUES(' + str(i) +')'
         cur.execute(sqlcommand)
     con.commit()
-
+# заполнение таблицы
 def Fill2T(TableName, info):
     sqlcommand = 'INSERT INTO ' + TableName + ' (data) VALUES( '+ info + ' )'
     cur.execute(sqlcommand)
