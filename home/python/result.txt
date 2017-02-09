@@ -1,0 +1,162 @@
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.18 001a4b30cdaf NPI30CDAF.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.34 001e8c83ddc7 prospekt05.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.35 94de80a1e749 ufa-ural-315.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.41 94de80a1e221 ufa-ural-306.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.42 001a924fea20 ufa-ural-09.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.43 001d6091eef4 Ufa-ural-242.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.44 c8600089ff89 ufa-ural-268.corp.lukoil.com "Полукеева Ксения" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.45 001fc6bb8d46 ufa-ural-122.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.46 bcaec55d601a ufa-ural-227.corp.lukoil.com "Гайнетдинова Гульназ Харисовна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.47 0019d18b813e Ufa-ural-247.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.48 00218563bada ufa-ural-28.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.49 f0921c64545b NPI64545B.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.50 001f299a1a23 notebook08.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.51 7446a0c44930 UFA-URAL-331.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.52 902b349f2dcd ufa-ural-295.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.53 d43d7e2c1edd ufa-ural-51.corp.lukoil.com "Гильманова Аниса Фаритовна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.54 902b34a131a9 ufa-ural-12.corp.lukoil.com "Третьякова Дина Илюсовна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.55 7446a0c44934 ufa-ural-05.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.56 902b349efa6b UFA-URAL-294.corp.lukoil.com "Мавлютова Зайтуна Навгатовна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.57 001a4b77c6eb Notebook10. "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.58 001cc09fb508 ufa-ural-55.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.59 7446a051bcb7 NPI51BCB7.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.60 9cb654ec0b9d UFA-URAL-355.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.61 00218562df7c Ufa-ural-333.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.62 0015f2e08f02 ufa-ural-177.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.63 00237d753bb5 NPI753BB5.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.64 0011d83202aa ufa-ural-2. "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.65 a0d3c1e6ffbe NPIE6FFBE.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.66 001fc6bb94c1 Ufa-ural-45.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.67 1cc1de8186b2 NPI8186B2.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.68 0022b0e1d3ef ufa-ural-128.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.69 001b78230756 NPI230756.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.70 001a4b9420ea Notebook60.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.71 902b3497e19d ufa-ural-281.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.72 bcaec55d6037 UFA-URAL-37.corp.lukoil.com "Карачурина Наиля" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.73 00218563c5d8 Ufa-ural-22.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.74 00252210feac ufa-ural-45.corp.lukoil.com "Габдрахимова Лилия Фанисовна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.75 00173144a269 ufa-ural-167.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.77 001f298edc6d notebook36.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.78 902b349f2e0d UFA-URAL-148.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.79 0019d1b1121a ufa-ural-136.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.80 00218562defd ufa-ural-34.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.81 485b39f139b6 ufa-ural-95.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.82 001cc09fb4f9 ufa-ural-58.corp.lukoil.com "Валиуллина Альбина" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.83 000c29950904 c-ufadhcp01.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.85 000c29242e80 c-ufadhcp02.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.86 00e052fdf242 ufa-ural-210.corp.lukoil.com "Абдеев Азат" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.87 00e052fc28b7 ufa-ural-274.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.88 38eaa76bd77d NPI6BD77D.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.89 d43d7e056419 ufa-ural-283.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.90 8851fb6e4508 UFA-URAL-320.corp.lukoil.com "Крученков Евгений Иванович" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.91 00252210a43b Ufa-ural. "Кутлиярова Ольга Рудиковна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.92 00218563bc49 ufa-ural-24.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.93 d43d7e2c1dc8 ufa-ural-279.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.94 00030d286664 Notebook39.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.95 00c0ee9641ad KM9641AD.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.96 001b780a7fc9 NPI0A7FC9.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.97 7446a05127a5 NPI5127A5.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.98 0011d8095102 UrazmetovaIG.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.99 a0d3c180f81e NPI80F81E.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.101 902b349f2d69 ufa-ural-165.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.102 485b39a3a6a4 ufa-ural-200.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.103 38eaa76bd76f NPI6BD76F.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.104 1cc1de8222a7 NPI8222A7.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.105 f0921c639461 NPI639461.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.106 485b39a9bb9c ufa-ural-138.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.107 902b349f2d44 Ufa-ural-179.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.108 e840f2e71f4f ufa-ural-157.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.109 0026188896d3 ufa-ural-118.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.110 000ae4ebe1dd ufa-inf-46.corp.lukoil.com "ноутбук информ ( отдел связи)" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.111 7446a09c7ec7 UFA-URAL-158.corp.lukoil.com "Лесовая Юлия" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.112 0000aaa789ee XRX0000AAA789EE.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.113 00218563c5d0 ufa-ural-06.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.114 001cc09fb64d ufa-ural-53.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.115 000ffef15461 Ufa-ural-137.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.116 0013d3992e2d prospect1.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.117 001fc6b4a58e prospekt25.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.118 001cc05c7867 ufa-ural-120.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.119 902b3497e1a0 UFA-URAL-23.corp.lukoil.com "Беднякова Эльвира" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.120 94de80a1cd82 ufa-ural-313.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.121 485b39f13cf6 ufa-ural-181.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.122 d027881fd9d3 ufa-ural-84.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.123 001966d12f98 UFA-URAL-219.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.124 0019d1b0f38c ufa-ural-41.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.125 485b39a3a73a Ufa-ural-188.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.126 902b349f2d75 ufa-ural-192.corp.lukoil.com "Габдрахимов Фикус Галинурович" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.127 18a905dbb3ef Ufa-inf-51.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.128 000ffef153cb ufa-ural-126.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.129 50e54980c1e1 Ufa-ural-250.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.130 00508d6897f2 cbpo15.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.131 c86000d1a8d5 ufa-ural-231.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.132 e840f2cd294b ufa-ural-277.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.133 94de80a1e20e ufa-ural-305.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.134 000461789eeb ufa-ural-37.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.136 001a4d49f349 ufa-ural-112.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.137 0000f089271a notebook18.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.138 0019d18bcb04 ufa-ural-61.corp.lukoil.com "Шагиева Лилия" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.139 0025222136aa ufa-ural-150.corp.lukoil.com "Нусратуллин Ильшат" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.140 18a905d3c5d7 microsof-81626c. "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.142 001a4d440243 ufa-ural-54.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.143 001fc60db42d prospekt19.corp.lukoil.com "Абдуллина" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.144 00e052aba209 ufa-ural-14.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.145 c86000bee6c4 Ufa-ural-255.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.146 000ffef15455 ufa-inf-87.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.147 001e8c83ddf4 ufa-ural-124.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.148 f0921ce589f6 UFA-URAL-336.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.149 00e052aba129 ufa-ural-150.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.150 902b349efa6a ufa-ural-147.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.151 50e54980d3a1 ufa-ural-252.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.152 001fc60db42f prospekt02.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.153 001a921943b0 krupskaya12.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.154 9cb654ec0bac UFA-URAL-353.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.155 7446a0c449fb ufa-ural-143.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.156 0012460058d4 Registrators "Регистраторы УКБ" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.157 001fc6b4a606 ufa-ural-214.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.159 0025b36eec31 notebook25.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.160 0001026d334d ufa-ural-30.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.161 001cc0017f69 ufa-ural-100.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.162 a23817ac BAD_ADDRESS "This address is already in use" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.163 8851fb6e450f UFA-URAL-170.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.164 0013d3a6660c cbpo06.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.165 a53817ac BAD_ADDRESS "This address is already in use" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.166 902b349f2ad5 UFA-URAL-354.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.167 c4346b17b106 NPI17B106.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.168 902b349f2e05 ufa-ural-358.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.169 001731449ec8 workstation.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.170 0001026d3354 azs12-kassa. "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.171 38eaa76be7ec NPI6BE7EC.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.173 d850e6489158 UFA-URAL-183.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.174 50e54980dd2d Ufa-ural-251.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.175 485b39f13a7f ufa-ural-59.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.176 902b349f2ad1 ufa-ural-230.corp.lukoil.com "Баимбетов Никита" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.177 7446a0513745 NPI513745.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.178 00249b0feebe notebook61.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.179 7446a0512daa NPI512DAA.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.181 001b7823f6f7 NPI23F6F7.corp.lukoil.com "МФУ hp3055 ЮРотдел" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.182 7446a0950e6f UFA-URAL-26.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.183 bcaec55d5c2f ufa-ural-222.corp.lukoil.com "Конова Елена Владимировна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.184 0017314c2af2 prospekt03.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.186 f0921c645484 NPI645484.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.188 902b349f2d87 ufa-ural-332.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.189 0018f3bd5820 ufa-ural-206.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.190 902b3497e237 ufa-ural-106.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.191 001cc00afb2f prospekt56.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.192 00269e4449b5 NOTEBOOK31.corp.lukoil.com "Мулюков Ильдар Абузярович" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.193 0019d1b0e52a Ufa-ural-164.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.195 902b349570a0 UFA-URAL-174.corp.lukoil.com "Рахимова Эльвира Маратовна" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.196 000c29e891e4 c-ufalic03.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.197 0016d462ec78 aplikaevoa.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.198 000c29b84135 ts-db.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.201 0013d3992eb2 ufa-ural-25.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.202 94de80a1e723 ufa-ural-309.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.203 002215dad4d9 Ufa-ural-352.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.206 001d6048b89d prospekt10.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.212 902b349efa77 UFA-URAL-196.corp.lukoil.com "Давлетшин Надир " BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.220 0018f3e24318 Ufa-ural-135.corp.lukoil.com "" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.221 001e8c83dde5 asterisk "Linux" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.223 001e0be75f0a HP_autoloader "HP_autoloader" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.227 c80aa961fc40 UFA-URAL-171.corp.lukoil.com "Хасанов Марат Рустамович" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.231 00c0b7cc26c7 "АРС Switched Rack Power" "АРС Switched Rack Power" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.232 00c0b74a1dc8 "APC Symetra LX16000" "Симетра" BOTH
+Netsh DHCP server scope 10.22.4.0 add reservedip 10.22.4.244 000ea687086d prospekt08.corp.lukoil.com "" BOTH

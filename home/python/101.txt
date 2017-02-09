@@ -1,0 +1,225 @@
+IP-адрес клиента	Имя	Истечение срока аренды	Тип	Уникальный код	Описание
+172.23.125.16	ufa-ural-312.corp.lukoil.com	Резервирование (активное)	DHCP	94de80a1cda8	UFA-URAL-312
+172.23.125.17	Ufa-ural-111.corp.lukoil.com	23.11.2014 13:00:17	DHCP	d43d7e056142	
+172.23.125.18	c-ufasql02old.corp.lukoil.com	Резервирование (активное)	DHCP	00215ad1111e	
+172.23.125.19	ufa-ural-78.corp.lukoil.com	24.11.2014 8:41:04	DHCP	0018f3be150a	
+172.23.125.20	ufa-ural-82.corp.lukoil.com	Резервирование (активное)	DHCP	f0921ce54f7f	ufa-ural-82 askarova
+172.23.125.21	ufa-ural-249.corp.lukoil.com	24.11.2014 16:06:45	DHCP	00e052b0f467	
+172.23.125.22	ufa-ural-77.corp.lukoil.com	24.11.2014 10:43:50	DHCP	902b349f2d71	
+172.23.125.23	ufa-ural-70.corp.lukoil.com	Резервирование (активное)	DHCP	386077705574	Исмагзамова Алия Фанилевна
+172.23.125.24	UFA-URAL-80.corp.lukoil.com	Резервирование (активное)	DHCP	bc5ff4345140	
+172.23.125.25	ufa-ural-129.corp.lukoil.com	Резервирование (активное)	DHCP	00e052b0f476	ufa-ural-103
+172.23.125.26	Ufa-ural-79.corp.lukoil.com	24.11.2014 8:34:58	DHCP	001d6090c687	
+172.23.125.28	STERLITAMAK-06.corp.lukoil.com	31.10.2014 14:41:46	DHCP	0013d44b37ee	
+172.23.125.29	Ufa-ural-115.corp.lukoil.com	24.11.2014 8:30:00	DHCP	8851fb6e4472	
+172.23.125.30	ufa-ural-117.corp.lukoil.com	23.11.2014 9:00:55	DHCP	00218562df89	
+172.23.125.31	ufa-ural-207.corp.lukoil.com	24.11.2014 15:27:24	DHCP	d43d7e0561b2	
+172.23.125.32	NPIA1A32F.corp.lukoil.com	18.11.2014 11:48:57	DHCP	78e7d1a1a32f	
+172.23.125.33	ufa-ural-119.corp.lukoil.com	16.11.2014 9:06:18	DHCP	8851fb6d875e	
+172.23.125.34	prospekt22.corp.lukoil.com	Резервирование (активное)	DHCP	001346e7d16c	
+172.23.125.35	prospekt37.corp.lukoil.com	24.11.2014 9:00:43	DHCP	001fc6bf4352	
+172.23.125.36	ufa-ural-323.corp.lukoil.com	Резервирование (активное)	DHCP	ac220bc45c88	
+172.23.125.37	UFA-URAL-297.corp.lukoil.com	Резервирование (активное)	DHCP	e069956ba41c	
+172.23.125.38	Ufa-ural-32.corp.lukoil.com	Резервирование (активное)	DHCP	7446a0a4879a	
+172.23.125.39	TOSHIBA.corp.lukoil.com	29.09.2014 12:05:28	DHCP	0023186fbe84	
+172.23.125.40	STAROVEROVAE-NB.corp.lukoil.com	30.09.2014 16:28:17	DHCP	5453ed1c1eaf	
+172.23.125.41	ISLAMOVVG.corp.lukoil.com	24.11.2014 8:09:24	DHCP	0011d809516f	
+172.23.125.42	MaulavetdinovAA.corp.lukoil.com	22.11.2014 13:49:55	DHCP	0019d1b0f56d	
+172.23.125.43	ufa-ural-01.corp.lukoil.com	Резервирование (активное)	DHCP	00248ce701f9	
+172.23.125.44	Ufa-ural-246.corp.lukoil.com	Резервирование (активное)	DHCP	7446a0bb27d8	
+172.23.125.45	NPI23B782.corp.lukoil.com	02.11.2014 12:00:04	DHCP	001b7823b782	
+172.23.125.46	prospekt36.corp.lukoil.com	21.11.2014 9:05:21	DHCP	001fc6c163bf	
+172.23.125.47	ufa-ural-321.corp.lukoil.com	Резервирование (активное)	DHCP	d850e6489163	
+172.23.125.48	Ufa-ural-156.corp.lukoil.com	14.11.2014 12:10:01	DHCP	0019d19e9d32	
+172.23.125.49	ufa-ural-325.corp.lukoil.com	Резервирование (активное)	DHCP	ac220bc4597f	UFA-URAL-325
+172.23.125.50	Ufa-ural-141.corp.lukoil.com	24.11.2014 15:22:21	DHCP	001fe20c5a63	
+172.23.125.51	Ufa-ural-134.corp.lukoil.com	24.11.2014 8:41:31	DHCP	001cc00afad9	
+172.23.125.52	NOTEBOOK17.corp.lukoil.com	24.11.2014 16:35:21	DHCP	001f29a9791c	
+172.23.125.53	ufa-ural-48.corp.lukoil.com	24.11.2014 7:57:05	DHCP	9cb654eef7ee	
+172.23.125.54	ufa-ural-142.corp.lukoil.com	Резервирование (активное)	DHCP	001cc00afb2f	UFA-URAL-142
+172.23.125.55	ufa-ural-324.corp.lukoil.com	Резервирование (активное)	DHCP	d850e648916a	ufa-ural-324
+172.23.125.56	ufa-ural-60.corp.lukoil.com	24.11.2014 9:00:21	DHCP	001cc09fb63f	
+172.23.125.57	UFA-URAL-338.corp.lukoil.com	21.11.2014 12:18:34	DHCP	9cb654ec0c5c	
+172.23.125.58	ufa-ural-33.corp.lukoil.com	Резервирование (активное)	DHCP	00055d2938a7	UFA-URAL-33 GaiazovaLD
+172.23.125.59	Ufa-ural-77.corp.lukoil.com	Резервирование (активное)	DHCP	001485b96e9d	
+172.23.125.60	ufa-ural-02.corp.lukoil.com	Резервирование (активное)	DHCP	002522ef01b2	 Гильманова Гульнара Наилевна
+172.23.125.61	KMAD68F9.corp.lukoil.com	Резервирование (активное)	DHCP	00c0eead68f9	keycera1035
+172.23.125.62	ufa-ural-36.corp.lukoil.com	21.11.2014 9:59:04	DHCP	8851fb6d8758	
+172.23.125.63	UFA-URAL-288.corp.lukoil.com	Резервирование (активное)	DHCP	902b349f2d7d	
+172.23.125.64	ufa-ural-38.corp.lukoil.com	Резервирование (активное)	DHCP	7446a0a48742	ufa-ural-38
+172.23.125.65	ufa-ural-204.corp.lukoil.com	Резервирование (активное)	DHCP	7446a09c7ede	ufa-ural-204
+172.23.125.66	ufa-ural-327.corp.lukoil.com	24.11.2014 9:31:47	DHCP	002354ba700b	
+172.23.125.67	notebook54.corp.lukoil.com	Резервирование (активное)	DHCP	f0def196c044	
+172.23.125.68	ufa-ural-197.corp.lukoil.com	21.11.2014 9:38:34	DHCP	00112fd3633e	
+172.23.125.69	Ufa-ural-62.corp.lukoil.com	Резервирование (активное)	DHCP	7446a0af7bac	
+172.23.125.70	ufa-ural-152.corp.lukoil.com	24.11.2014 9:01:56	DHCP	7446a0c449f7	
+172.23.125.71	NBK-SALUGIN.corp.lukoil.com	29.09.2014 16:50:04	DHCP	9cebe80dceb5	
+172.23.125.72	ufa-ural-253.corp.lukoil.com	24.11.2014 8:59:02	DHCP	5404a69313bb	
+172.23.125.74	ufa-ural-182.corp.lukoil.com	Резервирование (активное)	DHCP	485b39a3a730	UFA-URAL-182
+172.23.125.75	ufa-ural-08.corp.lukoil.com	24.11.2014 13:08:14	DHCP	00218562d6e4	
+172.23.125.76	ILOCZJ2080SND.corp.lukoil.com	09.11.2014 23:26:02	DHCP	e4115be30a38	
+172.23.125.77	notebook45.corp.lukoil.com	Резервирование (активное)	DHCP	1cc1defbacf1	
+172.23.125.78	Ufa-ural-73.corp.lukoil.com	21.11.2014 9:01:55	DHCP	0018f3e24565	
+172.23.125.79	notebook30.corp.lukoil.com	24.11.2014 9:14:23	DHCP	18a905863652	
+172.23.125.80	prospekt18.corp.lukoil.com	21.11.2014 8:51:32	DHCP	00112fd51162	
+172.23.125.81	ufa-ural-326.corp.lukoil.com	Резервирование (активное)	DHCP	d850e6489162	ufa-ural-326
+172.23.125.82	prospekt55.corp.lukoil.com	14.11.2014 8:56:09	DHCP	002215d7f6b9	
+172.23.125.83	ufa-ural-160.corp.lukoil.com	Резервирование (активное)	DHCP	ac220bc46109	ufa-ural-160
+172.23.125.84	ufa-ural-140.corp.lukoil.com	Резервирование (активное)	DHCP	0019d1a50008	
+172.23.125.85	ufa-ural-317.corp.lukoil.com	Резервирование (активное)	DHCP	d850e6488fee	
+172.23.125.86	Kandry07.corp.lukoil.com	24.11.2014 10:38:59	DHCP	485b39a3a6e5	
+172.23.125.87	ufa-ural-07.corp.lukoil.com	24.11.2014 17:43:14	DHCP	d43d7e056563	
+172.23.125.88	NPI025C3C.corp.lukoil.com	22.11.2014 12:31:05	DHCP	6c3be5025c3c	
+172.23.125.89	Ufa-ural-287.corp.lukoil.com	Резервирование (активное)	DHCP	902b3497ef29	
+172.23.125.90	ufa-ural-96.corp.lukoil.com	23.11.2014 9:19:55	DHCP	0017314c2af2	
+172.23.125.91	notebook24.corp.lukoil.com	Резервирование (активное)	DHCP	00217083b8eb	
+172.23.125.92	ufa-ural-93.corp.lukoil.com	Резервирование (активное)	DHCP	00248ce71dfe	UFA-URAL-93
+172.23.125.93	ufa-ural-304.corp.lukoil.com	Резервирование (активное)	DHCP	94de80a1e235	
+172.23.125.94	Ufa-ural-20.corp.lukoil.com	23.11.2014 8:44:55	DHCP	00218563c5bd	
+172.23.125.95	ufa-ural-18.corp.lukoil.com	Резервирование (активное)	DHCP	001731496855	
+172.23.125.96	KyoceraITO.corp.lukoil.com	Резервирование (активное)	DHCP	00c0ee979180	
+172.23.125.97	NPI8157C5.corp.lukoil.com	Резервирование (активное)	DHCP	1cc1de8157c5	kab59hp1522
+172.23.125.98	Ufa-ural-04.corp.lukoil.com	07.11.2014 9:58:25	DHCP	0018f35dd8c4	
+172.23.125.99	ufa-ural-302.corp.lukoil.com	Резервирование (активное)	DHCP	94de80a1e76b	
+172.23.125.100	Ufa-ural-17.corp.lukoil.com	21.11.2014 8:52:40	DHCP	00218563c5c6	
+172.23.125.101	notebook34.corp.lukoil.com	Резервирование (активное)	DHCP	18a905d2006b	
+172.23.125.102	KM978800.corp.lukoil.com	Резервирование (активное)	DHCP	00c0ee978800	
+172.23.125.103	ufa-ural-39.corp.lukoil.com	24.11.2014 11:59:39	DHCP	0013d41fcc7b	
+172.23.125.104	krupskaya22.corp.lukoil.com	Резервирование (активное)	DHCP	002215d7e997	
+172.23.125.105	ufa-ural-264.corp.lukoil.com	Резервирование (активное)	DHCP	c8600089ff7a	
+172.23.125.106	ufa-ural-114.corp.lukoil.com	16.11.2014 13:29:29	DHCP	902b3497e234	
+172.23.125.107	ufa-ural-240.corp.lukoil.com	Резервирование (активное)	DHCP	00c026aba21e	
+172.23.125.108	ufa-ural-209.corp.lukoil.com	Резервирование (активное)	DHCP	bc5ff405daec	
+172.23.125.109	ufa-ural-262.corp.lukoil.com	Резервирование (активное)	DHCP	c860008a0f76	
+172.23.125.110	Ufa-ural-207.corp.lukoil.com	Резервирование (активное)	DHCP	0015f2bf873e	
+172.23.125.111	ufa-ural-13.corp.lukoil.com	Резервирование (активное)	DHCP	0025221cc62c	Шафеев
+172.23.125.112	DEVEC84BC.corp.lukoil.com	31.10.2014 4:06:31	DHCP	a0d3c1ec84bc	
+172.23.125.113	Ufa-ural-116.	24.11.2014 10:10:13	DHCP	001a4d4a01b5	
+172.23.125.114	Ufa-ural-278.corp.lukoil.com	24.11.2014 13:05:13	DHCP	902b34957021	
+172.23.125.115	ufa-ural-144.corp.lukoil.com	24.11.2014 15:40:29	DHCP	f0921ce1a70f	
+172.23.125.116	ufa-ural-303.corp.lukoil.com	24.11.2014 9:22:45	DHCP	08002795df7e	
+172.23.125.117	ufa-ural-256.corp.lukoil.com	24.11.2014 8:51:38	DHCP	f46d049c3220	
+172.23.125.118	KMAD6C3A.corp.lukoil.com	Резервирование (активное)	DHCP	00c0eead6c3a	KeyoceraKab41
+172.23.125.119	ufa-ural-71.corp.lukoil.com	Резервирование (активное)	DHCP	7446a0a15622	
+172.23.125.120	Ufa-ural-223.corp.lukoil.com	Резервирование (активное)	DHCP	902b3497e1e7	
+172.23.125.121	ufa-ural-341.corp.lukoil.com	29.09.2014 18:25:50	DHCP	bc5ff4d45859	
+172.23.125.122	krupskaya12.corp.lukoil.com	Резервирование (активное)	DHCP	001a921943b0	
+172.23.125.123	krupskaya07.corp.lukoil.com	Резервирование (активное)	DHCP	0016e64747c8	
+172.23.125.124	ufa-ural-16.corp.lukoil.com	14.11.2014 8:29:15	DHCP	0015f2ded295	
+172.23.125.125	ufa-ural-193.corp.lukoil.com	24.11.2014 16:41:04	DHCP	7446a0a15628	
+172.23.125.126	ufa-ural-87.corp.lukoil.com	Резервирование (активное)	DHCP	00242124a645	
+172.23.125.127	AtnagulovRU.corp.lukoil.com	Резервирование (активное)	DHCP	080027ea6b5a	atnagulov_virtual_mashin
+172.23.125.128	ufa-ural-21.corp.lukoil.com	16.11.2014 8:40:30	DHCP	00218562de31	
+172.23.125.129	ufa-ural-276.corp.lukoil.com	24.11.2014 9:19:53	DHCP	e840f2e71dac	
+172.23.125.130	Ufa-ural-66.corp.lukoil.com	Резервирование (активное)	DHCP	0017315f22ef	
+172.23.125.131	ufa-ural-50.corp.lukoil.com	Резервирование (активное)	DHCP	001cc09fb649	
+172.23.125.132	Iglino-03.corp.lukoil.com	09.11.2014 15:51:41	DHCP	001a924627b9	
+172.23.125.133	ufa-ural-113.corp.lukoil.com	Резервирование (активное)	DHCP	7446a0af7cc5	
+172.23.125.134	Ufa-ural-44.corp.lukoil.com	24.11.2014 8:52:00	DHCP	7446a0af7a74	
+172.23.125.135	Ufa-ural-198.corp.lukoil.com	09.11.2014 15:04:01	DHCP	001d6048cd30	
+172.23.125.136	Ufa-ural-217.corp.lukoil.com	24.11.2014 8:54:41	DHCP	d02788046a81	
+172.23.125.137	NPI17B101.corp.lukoil.com	15.11.2014 9:43:01	DHCP	c4346b17b101	
+172.23.125.138	ufa-ural-263.corp.lukoil.com	21.11.2014 9:02:14	DHCP	c860008a0f41	
+172.23.125.139	ufa-inf-118.corp.lukoil.com	10.11.2014 10:52:52	DHCP	18a905d3c5d7	
+172.23.125.140	ufa-ural-265.corp.lukoil.com	24.11.2014 8:53:32	DHCP	c8600089fe7e	
+172.23.125.141	ufa-ural-311.corp.lukoil.com	Резервирование (активное)	DHCP	94de80a1cd96	ufa-ural-311
+172.23.125.142	ufa-ural-239.corp.lukoil.com	Резервирование (активное)	DHCP	3860770849b3	UFA-URAL-239
+172.23.125.143	SRW2048_KRP2.corp.lukoil.com	02.11.2014 12:26:55	DHCP	00226b37be54	
+172.23.125.144	ufa-ural-322.corp.lukoil.com	23.11.2014 14:42:31	DHCP	ac220bc45c10	
+172.23.125.145	ufa-ural-107.corp.lukoil.com	Резервирование (активное)	DHCP	0019d1b0e550	
+172.23.125.146	Ufa-ural-225.corp.lukoil.com	24.11.2014 9:04:17	DHCP	f46d042fcd66	
+172.23.125.147	ufa-ural-63.corp.lukoil.com	Резервирование (активное)	DHCP	bc5ff403a5cf	
+172.23.125.148	comp-8b167b00e9.	04.11.2014 21:38:19	DHCP	001a4d1ef502	
+172.23.125.149	ufa-ural-169.corp.lukoil.com	Резервирование (активное)	DHCP	e0cb4ed3d781	ufa-ural Nasibullina
+172.23.125.150	UFA-URAL-76.corp.lukoil.com	Резервирование (активное)	DHCP	7446a0c44931	ufa-ura-176
+172.23.125.151	Ufa-ural-240.corp.lukoil.com	Резервирование (активное)	DHCP	0019d19e989f	
+172.23.125.152	Linux Rustam	Резервирование (не активное)	Нет	0abcd1234567	конфликтный
+172.23.125.153	ufa-ural-337.corp.lukoil.com	Резервирование (активное)	DHCP	0019d1a4ffa6	
+172.23.125.154	hp1522 kab76	Резервирование (не активное)	Нет	1cc1de825292	hp1522 kab76
+172.23.125.155	Ufa-ural-155.corp.lukoil.com	21.11.2014 8:52:22	DHCP	00e052b0ee8d	
+172.23.125.156	Ufa-ural-94.corp.lukoil.com	Резервирование (активное)	DHCP	00248ce71e01	Сафонов Николай Сергеевич
+172.23.125.157	krupskaya21.corp.lukoil.com	Резервирование (активное)	DHCP	002215d968a0	
+172.23.125.158	KM96432A.corp.lukoil.com	Резервирование (активное)	DHCP	00c0ee96432a	
+172.23.125.159	Ufa-ural-260.corp.lukoil.com	Резервирование (активное)	DHCP	902b3414f470	
+172.23.125.160	UFA-INF-56.corp.lukoil.com	10.11.2014 10:14:44	DHCP	88ae1db3c565	
+172.23.125.161	ufa-ural-27.corp.lukoil.com	24.11.2014 8:53:06	DHCP	00248c044af7	
+172.23.125.162	ufa-ural-243.corp.lukoil.com	Резервирование (активное)	DHCP	14dae938fc02	UFA-URAL-243
+172.23.125.163	KM951771.corp.lukoil.com	Резервирование (активное)	DHCP	00c0ee951771	
+172.23.125.164	KM9C13EF.corp.lukoil.com	01.11.2014 9:12:56	DHCP	00c0ee9c13ef	
+172.23.125.165	Ufa-ural-110.corp.lukoil.com	05.10.2014 14:58:55	DHCP	001fc60db42f	
+172.23.125.166	proxy.corp.lukoil.com	11.11.2014 10:54:50	DHCP	0025901070d4	
+172.23.125.167	UFA-URAL-178.corp.lukoil.com	24.11.2014 8:30:41	DHCP	6cf0497105be	
+172.23.125.168	SRW2048_KRP1.corp.lukoil.com	02.11.2014 12:26:34	DHCP	00226b384df8	
+172.23.125.169	ufa-ural-329.corp.lukoil.com	Резервирование (активное)	DHCP	ac220bc457b4	
+172.23.125.170	Ufa-ural-195.corp.lukoil.com	24.11.2014 9:00:12	DHCP	485b39a3a62d	
+172.23.125.171	Ufa-ural-63.corp.lukoil.com	24.11.2014 13:42:27	DHCP	d43d7e05615b	
+172.23.125.172	ufa-ural-149.corp.lukoil.com	Резервирование (активное)	DHCP	00115bd0eb0b	
+172.23.125.173	ufa-ural-185.corp.lukoil.com	24.11.2014 10:31:33	DHCP	485b39a3a642	
+172.23.125.174	ufa-ural-189.corp.lukoil.com	Резервирование (активное)	DHCP	00112fd364cf	
+172.23.125.175	Ufa-ural-88.corp.lukoil.com	24.11.2014 9:12:44	DHCP	001676a0400c	
+172.23.125.176	ufa-ural-271.corp.lukoil.com	17.11.2014 20:43:39	DHCP	0017315f231d	
+172.23.125.177	testubuntu.corp.lukoil.com	17.11.2014 16:54:37	DHCP	94de80a1cdaf	
+172.23.125.178	NPI024C18.corp.lukoil.com	24.11.2014 12:20:42	DHCP	6c3be5024c18	
+172.23.125.179	ix2.corp.lukoil.com	23.11.2014 17:33:05	DHCP	00d0b821944b	
+172.23.125.180	Ufa-ural-211.corp.lukoil.com	Резервирование (активное)	DHCP	0018f3bd68ce	ufa-ural-211.corp.lukoil.com
+172.23.125.181	Ufa-ural-224.corp.lukoil.com	24.11.2014 9:04:09	DHCP	f46d042fd4e5	
+172.23.125.182	Ufa-ural-202.corp.lukoil.com	24.11.2014 8:34:10	DHCP	902b349efabc	
+172.23.125.183	Ufa-inf-51.corp.lukoil.com	Резервирование (активное)	DHCP	001e65dd222e	
+172.23.125.184	Ufa-ural-237.corp.lukoil.com	24.11.2014 8:04:39	DHCP	e069956ba40d	
+172.23.125.185	Ufa-ural-285.corp.lukoil.com	Резервирование (активное)	DHCP	902b3497daa8	UFA-URAL-285 panfilov
+172.23.125.186	Ufa-ural-296.corp.lukoil.com	24.11.2014 9:37:05	DHCP	6c3be5195338	
+172.23.125.187	ufa-ural-108.corp.lukoil.com	24.11.2014 8:48:49	DHCP	0001033201dc	
+172.23.125.188	Ufa-ural-289.corp.lukoil.com	Резервирование (активное)	DHCP	902b3497e22f	
+172.23.125.189	SRW2024.corp.lukoil.com	17.11.2014 4:37:16	DHCP	18ef63800c2e	
+172.23.125.190	ufa-ural-199.corp.lukoil.com	24.11.2014 9:01:35	DHCP	e0cb4ea57391	
+172.23.125.191	SEPE02F6D612C06.corp.lukoil.com	23.11.2014 15:24:07	DHCP	e02f6d612c06	
+172.23.125.192	ufa-ural-19.corp.lukoil.com	16.11.2014 15:34:51	DHCP	6c3be51c2d01	
+172.23.125.193	notebook56.corp.lukoil.com	24.11.2014 17:53:12	DHCP	206a8a83b020	
+172.23.125.194	ufa-ural-238.corp.lukoil.com	23.11.2014 12:01:32	DHCP	3860777055ab	
+172.23.125.195	Ufa-ural-123.corp.lukoil.com	14.11.2014 11:31:48	DHCP	7446a0c44935	
+172.23.125.196	ufa-inf-64.corp.lukoil.com	Резервирование (активное)	DHCP	001871692a59	
+172.23.125.197	UFA-URAL-131.corp.lukoil.com	11.11.2014 8:58:23	DHCP	7446a0af7cc6	
+172.23.125.198	ufa-inf-167.corp.lukoil.com	Резервирование (активное)	DHCP	f46d0463d9b9	
+172.23.125.199	ufa-ural-344.corp.lukoil.com	30.09.2014 15:59:15	DHCP	bc5ff4d4577a	
+172.23.125.200	ufa-ural-300.corp.lukoil.com	03.10.2014 22:47:54	DHCP	0018f3bd60ee	
+172.23.125.201	ufa-ural-343.corp.lukoil.com	29.09.2014 10:12:44	DHCP	bc5ff4d45853	
+172.23.125.202	NPIA01615 printer room 59	Резервирование (не активное)	Нет	3cd92ba01615	NPIA01615 printer room 59
+172.23.125.203	UFA-URAL-286.corp.lukoil.com	24.11.2014 14:59:16	DHCP	d43d7e2c1dd0	
+172.23.125.204	NPI51373A.corp.lukoil.com	22.11.2014 17:46:51	DHCP	7446a051373a	
+172.23.125.205	ufa-ural-02.corp.lukoil.com	Резервирование (активное)	DHCP	00e052fca30d	
+172.23.125.206	ufa-ural-186.corp.lukoil.com	17.11.2014 16:21:53	DHCP	001bfc0ce774	
+172.23.125.207	NPI6BE7D8.corp.lukoil.com	24.11.2014 17:16:16	DHCP	38eaa76be7d8	
+172.23.125.208	ufa-ural-31.corp.lukoil.com	24.11.2014 10:52:03	DHCP	d43d7e4b73db	
+172.23.125.209	ufa-ural-292.corp.lukoil.com	Резервирование (активное)	DHCP	902b349f2d79	
+172.23.125.210	ufa-ural-127.corp.lukoil.com	Резервирование (активное)	DHCP	9cb654ec0b00	 ufa-ural-127 ZakirovEG
+172.23.125.211	ufa-ural-42.corp.lukoil.com	24.11.2014 17:27:59	DHCP	d43d7e05615e	
+172.23.125.212	Ufa-ural-248.corp.lukoil.com	24.11.2014 9:11:04	DHCP	6c626d3ebcb9	
+172.23.125.213	ufa-ural-284.corp.lukoil.com	24.11.2014 15:19:18	DHCP	d43d7e056143	
+172.23.125.214	Ufa-ural-102.corp.lukoil.com	18.11.2014 9:41:35	DHCP	d43d7e05624e	
+172.23.125.215	UFA-URAL-290.corp.lukoil.com	24.11.2014 9:06:41	DHCP	902b349efa65	
+172.23.125.216	SEPE02F6D612C38.corp.lukoil.com	23.11.2014 15:30:11	DHCP	e02f6d612c38	
+172.23.125.217	Ufa-ural-46.corp.lukoil.com	24.11.2014 13:53:53	DHCP	902b34a12c2a	
+172.23.125.218	Ufa-ural-49.corp.lukoil.com	21.11.2014 9:29:14	DHCP	902b3497da2a	
+172.23.125.219	ufa-ural-69.corp.lukoil.com	14.11.2014 8:27:05	DHCP	00248ca68258	
+172.23.125.220	ufa-inf-21.corp.lukoil.com	Резервирование (активное)	DHCP	000ffed56169	Каранаев Азат
+172.23.125.221	UFA-INF-60.corp.lukoil.com	Резервирование (активное)	DHCP	001e0b65ec9d	
+172.23.125.222	INF-UFA-109.corp.lukoil.com	Резервирование (активное)	DHCP	002522bd723b	
+172.23.125.223	KMAE8F17.corp.lukoil.com	Резервирование (активное)	DHCP	00c0eeae8f17	KMAE8F17
+172.23.125.224	ufa-ural-81.corp.lukoil.com	24.11.2014 9:05:20	DHCP	902b349f2e0f	
+172.23.125.225	ats	Резервирование (не активное)	Нет	0017315f22e3	ats
+172.23.125.226	mfu1522	Резервирование (не активное)	Нет	00237d775222	mfu1522
+172.23.125.228	ufa-ural-194.corp.lukoil.com	24.11.2014 9:05:36	DHCP	902b349f2d84	
+172.23.125.229	ufa-ural-275.corp.lukoil.com	12.11.2014 17:00:02	DHCP	4c72b9513288	
+172.23.125.232	Ufa-ural-85.corp.lukoil.com	23.11.2014 10:20:31	DHCP	902b349f2e14	
+172.23.125.233	NPI233276.corp.lukoil.com	Резервирование (не активное)	DHCP	001b78233276	кабинет 51 lj 3055 NPI2333276.corp.lukoil.com
+172.23.125.234	Ufa-ural-83.corp.lukoil.com	03.11.2014 9:02:26	DHCP	00248ce71e0d	
+172.23.125.235	SipuraSPA	Резервирование (не активное)	Нет	000e083a5cca	SipuraSPA
+172.23.125.236	NPI644495.corp.lukoil.com	Резервирование (активное)	DHCP	f0921c644495	hp400_kab72_energetic
+172.23.125.237	ufa-ural-270.corp.lukoil.com	24.11.2014 9:10:20	DHCP	94de80a1e699	
+172.23.125.239	ufa-ural-310.corp.lukoil.com	24.11.2014 8:53:49	DHCP	94de80a1e6b6	
+172.23.125.240	ufa-ural-307.corp.lukoil.com	24.11.2014 8:48:09	DHCP	94de80a1cd74	
+172.23.125.241	NPI1652B5.corp.lukoil.com	Резервирование (активное)	DHCP	9cb6541652b5	printer kab 51 hp400
+172.23.125.246	ufa-ural-103.corp.lukoil.com	Резервирование (активное)	DHCP	00112fae3cd3	UFA-URAL-103 HasanovaVM
+172.23.125.247	MFU Keyocera1135 kab. 68	Резервирование (не активное)	Нет	00c0eeacb391	MFU Keyocera1135 kab. 68
+172.23.125.248	ufa-ural-328.corp.lukoil.com	Резервирование (активное)	DHCP	ac220bc45c32	ufa-ural-328
+172.23.125.249	SS89090d.corp.lukoil.com	Резервирование (активное)	DHCP	001f1f89090d	hpscan jet 6350
