@@ -26,7 +26,7 @@ def ClearTable(TableName):
 ###################################/foo####################################
 
 
-TableName = 'TableInt'
+TName = 'TableInt'
 con = sqlite3.connect('users.db')
 cur = con.cursor()
 #cur.execute('CREATE TABLE users (id INTEGER PRIMARY KEY, firstName VARCHAR(100), secondName VARCHAR(30))')
@@ -34,8 +34,9 @@ cur = con.cursor()
 
 
 #con.commit()
+ClearTable(TName)
 for i in range(10):
-    Fill2T(TableName, "bla"*50)
+    Fill2T(TName, "bla"*50)
 
 
 
