@@ -1,2 +1,2 @@
 
-print "aaa"
+print("aaa")
