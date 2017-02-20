@@ -2,13 +2,14 @@
 import sqlite3
 ###################################foo####################################
 def FillTable(TableName):
-    for i in range(10000000):
+    for i in range(1000):
         sqlcommand = 'INSERT INTO ' + TableName + ' (data) VALUES(' + str(i) +')'
         cur.execute(sqlcommand)
     con.commit()
 # заполнение таблицы
 def Fill2T(TableName, info):
-    sqlcommand = 'INSERT INTO ' + TableName + ' (data) VALUES( '+ info + ' )'
+    #i=info
+    sqlcommand = 'INSERT INTO ' + TableName + ' (data) VALUES(' + str(info) +')'
     cur.execute(sqlcommand)
     con.commit()
 
@@ -22,7 +23,8 @@ def ReadTable(TableName):
 
 #очистка таблицы
 def ClearTable(TableName):
-    cur.execute('DELETE FROM ' + TableName)
+    cur.execute("DELETE FROM " + TableName)
+    con.commit()
 ###################################/foo####################################
 
 
@@ -35,8 +37,8 @@ cur = con.cursor()
 
 #con.commit()
 ClearTable(TName)
-for i in range(10):
-    Fill2T(TName, "bla"*50)
+#for i in range(10):
+Fill2T(TName, 5)
 
 
 
