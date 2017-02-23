@@ -16,7 +16,10 @@ def checker(V):
 
 checker(Vect1)
 
-
+print(1200000/0.8)
+print(61*4)
+print(255/4)
+print(30*56)
 
 
 
