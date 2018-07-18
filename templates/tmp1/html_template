@@ -1,0 +1,9 @@
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+    <h1>{{ header_1 }}</h1>
+    {% for link in links %}
+        <li><a href="{{ link[link] }}">{{ link }}</a></li>
+    {% endfor %}
+</body>

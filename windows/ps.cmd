@@ -1,0 +1,1 @@
+psexec \\UFA-URAL-131 wmic qfe list|findstr 4012212
