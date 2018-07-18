@@ -1,4 +1,5 @@
-from string import maketrans
+# from string import 
+
 
 i=0
 l=" "
@@ -8,15 +9,16 @@ g=open("slovar.txt", "r")
 num=g.readlines()
 
 #for x in a:
-for y in num:
-	#print y
-	table = maketrans(y, '++++++'+y)
-	a=a.replace(y, '++++++'+y)
+# for y in num:
+# 	#print y
+# 	table = maketrans(y, '++++++'+y)
+# 	a=a.replace(y, '++++++'+y)
 	#b=a.replace(y, '++++++'+y)
 
 
 
-print a
+print(a)
+print("dfsdf")
 f.close()
 g.close()
 
